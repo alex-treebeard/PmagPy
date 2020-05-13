@@ -1,7 +1,0 @@
-notebooks:
-  - "PmagPy Online - Setup.ipynb"
-  - "PmagPy_introduction.ipynb"
-  - "PmagPy_iodp_HOLE_template.ipynb"
-  - "data_files/notebooks/Validate Quoted Strings.ipynb"
-output_dirs:
-  - output
