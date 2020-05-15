@@ -1,5 +1,6 @@
 # PmagPy: tools for paleomagnetic data analysis
 
+
 <table>
 <tr>
   <td>Latest Release</td>
